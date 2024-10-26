@@ -8,3 +8,4 @@ xinsodev/drawdb
 rabbitmq:3.12.6-management
 apache/airflow:2.0.0
 ollama/ollama:latest
+uozi/nginx-ui:latest
