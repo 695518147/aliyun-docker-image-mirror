@@ -1,5 +1,6 @@
 nginx
 mysql:8.3
+doctorkirk/oracle-19c
 vitamojo/mysql5
 redis:6.2.14
 redis:7.2.4
