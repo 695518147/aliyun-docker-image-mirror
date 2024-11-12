@@ -12,3 +12,4 @@ rabbitmq:3.12.6-management
 apache/airflow:2.0.0
 ollama/ollama:latest
 uozi/nginx-ui:latest
+confluentinc/cp-kafka:6.2.0
