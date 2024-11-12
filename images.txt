@@ -10,6 +10,5 @@ wnameless/oracle-xe-11g-r2
 xinsodev/drawdb
 rabbitmq:3.12.6-management
 
-provectuslabs/kafka-ui
-wurstmeister/kafka:2.13-2.8.1
-zookeeper:latest
+wurstmeister/kafka
+wurstmeister/zookeeper
