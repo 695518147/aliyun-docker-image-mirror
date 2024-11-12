@@ -9,7 +9,7 @@ amuguelove/weixin-md:1.0.0
 wnameless/oracle-xe-11g-r2
 xinsodev/drawdb
 rabbitmq:3.12.6-management
-apache/airflow:2.0.0
-ollama/ollama:latest
-uozi/nginx-ui:latest
-confluentinc/cp-kafka:6.2.0
+
+provectuslabs/kafka-ui
+wurstmeister/kafka:2.13-2.8.1
+zookeeper:latest
