@@ -5,10 +5,4 @@ vitamojo/mysql5
 redis:6.2.14
 redis:7.2.4
 redis:latest
-amuguelove/weixin-md:1.0.0
-wnameless/oracle-xe-11g-r2
-xinsodev/drawdb
-rabbitmq:3.12.6-management
-
-wurstmeister/kafka
-wurstmeister/zookeeper
+ollama/ollama:latest
