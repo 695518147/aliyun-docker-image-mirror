@@ -6,3 +6,4 @@ redis:6.2.14
 redis:7.2.4
 redis:latest
 ollama/ollama:latest
+consul:1.19.0
