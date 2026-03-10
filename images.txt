@@ -1,1 +1,2 @@
 python:3.10.20-slim
+dhi.io/postgres:18-alpine3.22-dev
