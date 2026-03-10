@@ -1,2 +1,2 @@
 python:3.10.20-slim
-dhi.io/postgres:18-alpine3.22-dev
+bitnamicharts/postgresql:sha256-3297e8ae983d3059601e7122b51e44d144b97fb2d0d637ddf20829ca11bbf3da
