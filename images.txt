@@ -1,3 +1,4 @@
 python:3.10.20-slim
 postgres:15-alpine
 ollama/ollama:0.21.2
+postgres:16
